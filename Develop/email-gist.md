@@ -21,6 +21,7 @@ The selected regular expression matches a simple URL format. It allows for optio
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
+The following tutorial provides an in-depth explanation of various essential components that make up regular expressions (regex). Each component is described with a detailed definition, and its functionality is explained with clear examples. The section covers the following regex components.
 
 ### Anchors
 
